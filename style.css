@@ -558,9 +558,6 @@ counter-increment: li-counter;
 background-color: #2aa22a;
 box-shadow: 2px 2px 2px 2px black;
 text-align: center;
-position: relative;
-left: 10%;
-
 
 }
 #mob2
@@ -590,6 +587,8 @@ box-shadow: 2px 2px 2px 2px black;
 background-color: #0d001a;
 border-top:8px solid black;
 border-bottom:10px solid black;
-
-
+}
+.mobileregister{
+  display: flex;
+  justify-content: center;
 }
