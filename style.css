@@ -556,6 +556,10 @@ counter-increment: li-counter;
     display: block;
     margin-bottom: 20px;
   }
+   .carousel-inner img {
+      width: 100%;
+      height: 52vh;
+  }
 }
 #mob1
 {
