@@ -589,6 +589,6 @@ border-top:8px solid black;
 border-bottom:10px solid black;
 }
 .mobileregister{
-  display: flex;
-  justify-content: center;
+  margin: 0 auto;
+  text-align: center;
 }
